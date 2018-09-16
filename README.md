@@ -5,6 +5,8 @@ Takes a `modlist.csv` file and outputs a `modlist.html`
 
 [example output](example/modlist.html) using the csv used as an example for the mod
 
+[See the example as a web page](https://hixoe.github.io/modlist_csv2html/)
+
 # Usage
 
 
